@@ -4,5 +4,4 @@
   tools: [ Laravel, Codeigniter , Angular , Ionic,  Bootstrap],
   
   
- challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
 }
