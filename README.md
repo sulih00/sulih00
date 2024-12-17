@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sulih
--const aboutme = {
-  code: [PHP, Javascript, Typescript, HTML, CSS],
-  tools: [ Laravel, Codeigniter , Angular , Ionic,  Bootstrap] 
+
+const aboutMe = {
+  code: [PHP, Javascript, Typescript, HTML, CSS, SQL, NoSQL],
+  tools: [ Laravel, Codeigniter , Angular , Ionic,  Bootstrap, React , Tailwind] ,
+  architecture: ["microservices"],
 }
